@@ -5,5 +5,6 @@ Multi-class news headline classification using TF-IDF + Logistic Regression · P
 See [SOLUTION.md](SOLUTION.md) for the full report.
 
 ## How to Run
-pip install -r requirements.txt
-python analysis.py
+1. **Install dependencies:**
+   ```bash
+   pip install -r requirements.txtpip install -r requirements.txt
